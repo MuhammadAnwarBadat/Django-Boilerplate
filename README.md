@@ -79,18 +79,17 @@
 
 ## Deployment
 
-- Instructions for deploying to common platforms like Heroku, AWS, or using Docker.
+- To be added soon..
 
 ## Contributing
 
-- Guidelines for how to contribute to the boilerplate, if applicable.
+- To be added soon.
 
 ## License
 
-- Specify the license under which the boilerplate is released, e.g., MIT, GPL, etc.
+- MIT License.
 
 ## Acknowledgments
 
-- Mention any third-party packages, tutorials, or resources that the boilerplate uses or recommends.
-
+- To be added soon.
 ---
